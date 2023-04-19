@@ -5,7 +5,6 @@ Zachary Anderson - Computer Engineering Student
 UARK 2024 
 
 # Installations for program 
-
-# To install Flask (Terminal commands)
+Flask --> 
 ```python
 pip install Flask 
